@@ -1,6 +1,7 @@
 # Food Express with React and TailwindCSS
 
-# Website Preview: [foodexpress-zihadnayem.netlify.app](https://foodexpress-zihadnayem.netlify.app/)
+# Website Preview:
+[foodexpress-zihadnayem.netlify.app](https://foodexpress-zihadnayem.netlify.app/)
 
 # Website Preview: 
 ![foodexpress](https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/3f59b733-3a14-4d0c-b6fd-0fdb780fa421)
