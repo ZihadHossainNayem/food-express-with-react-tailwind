@@ -17,5 +17,5 @@
 
 # Mobile View:
 ![image](https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/09b9747e-ea28-4282-b181-3a43d44ed6ea)
-![image](https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/2cd6691b-3156-4dee-b012-e4bdfed9495d)
-![image](https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/6f246168-5393-4089-9c8a-f384e27c72b6)
+![image](https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/4dd7601a-abbc-43a4-9ca5-9e7692b242c0)
+![image](https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/b6a3f178-121d-43d2-b9b2-53142292bcbb)
