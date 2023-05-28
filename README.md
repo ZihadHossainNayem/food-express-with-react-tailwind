@@ -15,6 +15,6 @@
 </div>
 
 # Mobile View:
-https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/4cf52bd2-aee0-4d52-bf97-999f8e5ac01f
+(https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/4cf52bd2-aee0-4d52-bf97-999f8e5ac01f)
 https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/4cf52bd2-aee0-4d52-bf97-999f8e5ac01f
 https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/30cbd507-4d60-4b53-9f07-a83b1224b35f
