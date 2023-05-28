@@ -15,7 +15,7 @@
 </div>
 
 # Mobile View:
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/4cf52bd2-aee0-4d52-bf97-999f8e5ac01f" alt="Image 1" style="width: 30%;">
   <img src="https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/4cf52bd2-aee0-4d52-bf97-999f8e5ac01f" alt="Image 2" style="width: 30%;">
   <img src="https://github.com/ZihadHossainNayem/food-express-with-react-tailwind/assets/30808845/30cbd507-4d60-4b53-9f07-a83b1224b35f" alt="Image 3" style="width: 30%;">
